@@ -84,12 +84,13 @@
                 [
                     "domanda" => "Perché il mio account è associato a un paese?",
                     "risposta" => [
-                        par1 => "Il tuo account è associato a un paese (o territorio) nei Termini di servizio per poter stabilire due cose:
+                        par1 => "Il tuo account è associato a un paese (o territorio) nei Termini di servizio per poter stabilire due cose: 
 
-                        La società consociata Google che offre i servizi, tratta le tue informazioni ed è responsabile del rispetto delle leggi sulla privacy vigenti. Generalmente Google offre i propri servizi per i consumatori tramite una delle due società seguenti:
-                            Google Ireland Limited, se gli utenti sono residenti nello Spazio economico europeo (paesi dell'Unione europea, oltre a Islanda, Liechtenstein e Norvegia) o in Svizzera.
-                            Google LLC, con sede negli Stati Uniti, per il resto del mondo.",
-                        par2 => "La versione dei termini che regola il nostro rapporto, che può variare in base alle leggi locali.",
+                            <ol><li>La società consociata Google che offre i servizi, tratta le tue informazioni ed è responsabile del rispetto delle leggi sulla privacy vigenti. Generalmente Google offre i propri servizi per i consumatori tramite una delle due società seguenti:</li>
+                            <ol type='a'>
+                            <li>Google Ireland Limited, se gli utenti sono residenti nello Spazio economico europeo (paesi dell'Unione europea, oltre a Islanda, Liechtenstein e Norvegia) o in Svizzera.</li>
+                            <li>Google LLC, con sede negli Stati Uniti, per il resto del mondo.</li></ol>",
+                        par2 => "<li> La versione dei termini che regola il nostro rapporto, che può variare in base alle leggi locali.</li> </ol>",
                         par3 => "Tieni presente che i servizi Google sono fondamentalmente gli stessi a prescindere dalla società consociata che li offre o dal paese a cui è associato il tuo account."
                     ]
                 ],

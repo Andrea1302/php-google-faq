@@ -118,17 +118,12 @@
                 foreach ($arg as $domanda => $risposte) {
                     echo "<h2>" . $domanda . "</h2>";
                     foreach ($risposte as $risposta) {
-                        echo "<p>" . $risposta . "</p>";
+                        echo "<p>" . $risposta . "<p>";
                     }
                 }
-                // echo "<h2>" . $risposta[$domanda] . "</h2>" ;
-
-                // $argRisposta = $arg["risposta"];
-                // foreach ($argRisposta as $risposta) {
-                //     echo "<p>" . $risposta  . "</p>"; 
-                // }
             }
         ?>
+
     </main>
 
     <footer>
